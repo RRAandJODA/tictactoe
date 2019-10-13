@@ -1,0 +1,54 @@
+body{
+    background-color: #DCD7D6;
+}
+#tictac{
+	width: 552px;
+	height: 552px;
+	border: 5px solid black;
+	margin:auto;
+}
+.box {
+	width:180px;
+	height:180px;
+	border:2px solid black;	
+    background-color:pink; 	
+}
+
+
+#a {
+    margin-left:0px;
+    float: left;
+}
+#b {
+    margin-left:0px;
+    float: left; 
+}
+#c {
+    margin-left:368px;
+}
+#d {
+    margin-left:0px;
+    float: left;
+}
+#e {
+    margin-left:0px;
+    float: left; 
+}
+#f {
+    margin-left:368px;
+}
+
+#g {
+    margin-left:0px;
+    float: left;
+}
+#h {
+    margin-left:0px;
+    float: left; 
+}
+#i {
+    margin-left:368px;
+}
+#stat{
+    display: none;
+}
